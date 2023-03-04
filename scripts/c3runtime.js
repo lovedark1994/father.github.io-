@@ -4040,6 +4040,7 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Text.Acts.SetText,
 		C3.Plugins.Touch.Cnds.OnTapGestureObject,
 		C3.Plugins.Sprite.Cnds.IsAnimPlaying,
+		C3.Behaviors.Tween.Cnds.IsAnyPlaying,
 		C3.Plugins.Text.Cnds.CompareOpacity,
 		C3.Behaviors.Tween.Acts.TweenOneProperty,
 		C3.Plugins.System.Acts.SubVar,
